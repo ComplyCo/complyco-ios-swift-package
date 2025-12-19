@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ComplyCoSDK",
-            url: "https://complyco-releases.s3.us-east-2.amazonaws.com/ios/ComplyCoSDK-0.0.1-xcframework.zip",
-            checksum: "ed556351625427d86fc65e577424cf2b0af3f74758d1935718ddee36a1d575ac"
+            url: "https://complyco-releases.s3.us-east-2.amazonaws.com/ios/ComplyCoSDK-0.0.2-xcframework.zip",
+            checksum: "3f664199147b3c5046af627c1fab7ae6d4c42d6cd85e0fdabdc4b4d63c79e0cd"
         ),
     ]
 )
